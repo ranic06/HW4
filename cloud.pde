@@ -1,5 +1,4 @@
-void cloud() {
-  //cloud
+void cloud() { // clouds
   noStroke();
   fill(255);
   drawCloud(100, 190);
